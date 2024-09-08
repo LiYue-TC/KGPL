@@ -1,2 +1,2 @@
 # KGPL
- The code will be made available upon acceptance of our paper
+ The model will be made available upon acceptance of our paper
